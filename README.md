@@ -13,19 +13,53 @@
 -- And here are the project components to help you understand the project's workflow
 -- The modules are
 
+# where you put the datasets (images) of the rice leaf
+> data
 
-> data                       # where you put the datasets (images) of the rice leaf 
-> model                      # the brain of the program, it accumulates knowledge learnt from the datasets
-> rice_leaf                  # all the main codes are in here 
-app.py                       # where you run the whole program ( >>> streamlit run app.py )
-auth.py                      # create users' info and password as "key-value" structure via hash process  
-class_indices.json           # categorize the sub-folders in data folder as json objects
-main.py                      # where you run this project as a prototype (demo)
-README.md                    # for noting during work
-requirements.txt             # list of important Python libraries ( must install )
-save.txt                     # just a draft paper ( skip this one )
-users.json                   # where the system stores and deletes users' info 
-> venv framework             # python virtual environment ( must install )
+
+# the brain of the program, it accumulates knowledge learnt from the datasets
+> model
+
+
+# all the main codes are in here 
+> rice_leaf
+
+
+# where you run the whole program ( >>> streamlit run app.py )
+app.py                       
+
+
+# create users' info and password as "key-value" structure via hash process  
+auth.py                      
+
+
+# categorize the sub-folders in data folder as json objects
+class_indices.json           
+
+
+# where you run this project as a prototype (demo)
+main.py                     
+
+
+# for noting during work
+README.md                    
+
+
+# list of important Python libraries ( must install )
+requirements.txt             
+
+
+# just a draft paper ( skip this one )
+save.txt                     
+
+
+# where the system stores and deletes users' info 
+users.json                   
+
+
+> # python virtual environment ( must install )
+> venv framework
+
 
 
 
