@@ -26,38 +26,38 @@
 
 
 # where you run the whole program ( >>> streamlit run app.py )
-app.py                       
+> app.py                       
 
 
 # create users' info and password as "key-value" structure via hash process  
-auth.py                      
+> auth.py                      
 
 
 # categorize the sub-folders in data folder as json objects
-class_indices.json           
+> class_indices.json           
 
 
 # where you run this project as a prototype (demo)
-main.py                     
+> main.py                     
 
 
 # for noting during work
-README.md                    
+> README.md                    
 
 
 # list of important Python libraries ( must install )
-requirements.txt             
+> requirements.txt             
 
 
 # just a draft paper ( skip this one )
-save.txt                     
+> save.txt                     
 
 
 # where the system stores and deletes users' info 
-users.json                   
+> users.json                   
 
 
-> # python virtual environment ( must install )
+# python virtual environment ( must install )
 > venv framework
 
 
