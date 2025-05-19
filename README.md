@@ -1,7 +1,7 @@
 # Rice_leaf_disease_detection
 
--- This is my Computer Vision assignment/project about > rice leaf disease recognition using deep learning < 
--- You can clone this project and follow some of the instructions below to get this to operate
+- This is my Computer Vision assignment/project about > rice leaf disease recognition using deep learning < 
+- You can clone this project and follow some of the instructions below to get this to operate
 
 1. Clone this repo in Git Bash using   >>> git clone <this-git-repo-url>   command
 2. Open Visual Studio Code, import the installed folders, and then open the terminal
@@ -10,8 +10,8 @@
 
 
 
--- And here are the project components to help you understand the project's workflow
--- The modules are
+- And here are the project components to help you understand the project's workflow
+- The modules are
 
 # where you put the datasets (images) of the rice leaf
 > data
@@ -63,8 +63,8 @@ users.json
 
 
 
--- Okay, now you have completed the basic setup and understand how the program works
--- Now let me show you how to use the program properly
+- Okay, now you have completed the basic setup and understand how the program works
+- Now let me show you how to use the program properly
 1. Put the datasets package inside the (data) folder/ subfolders ( infected rice leaf images )
 2. Open the terminal and type    >>> npm run train.py
 3. Check if the (model) folder has a file with the .h5 at the end
